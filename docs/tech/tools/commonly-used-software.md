@@ -12,11 +12,11 @@ tag:
 
 # Windows 常用软件推荐
 
-## 压缩工具
+## 🗜️压缩工具
 
 [360 压缩](https://yasuo.360.cn/)：良心无广，挺好用的压缩软件。国内版和 [国际版](https://www.360totalsecurity.com/zh-cn/360zip/) 相差不大，不放心的可以用国际版。国内版支持压缩密码管理，但不支持导出。
 
-## 浏览器
+## 🌐浏览器
 
 [百分浏览器](https://www.centbrowser.cn/) ：基于 Chrome 内核，个人一直将其便携版作为主力使用。年更软件，不过比较稳定。
 
@@ -32,13 +32,13 @@ tag:
 
 [IntelliJ Idea](https://www.jetbrains.com/zh-cn/idea/download/)：Jet Brains 公司出品，强大的 Java IDE ~~应该没有程序员不知道吧~~。
 
-## 办公
+## 📋办公
 
 [日历清单](https://www.xdiarys.com/)：免费无广告，与桌面完美融合，日历方式备忘，双击桌面即可快速编辑记录任务。（还有一款叫 [桌面日历](https://chs.desktopcal.com/)，两个实际上是同一个东西）
 
 [小微桌面](https://www.dskmanager.com/)：免费、轻量、无广告的桌面管理软件，软件只有 3M。
 
-### PDF
+### 📋PDF
 
 [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)![最新版本](https://img.shields.io/github/v/release/sumatrapdfreader/sumatrapdf)：轻量、快速、开源的 PDF 阅读器，写 LaTeX 的应该不会陌生。支持打开 EPUB、MOBI、XPS 等格式的文档。
 
@@ -52,7 +52,7 @@ tag:
 
 [Dpdf](https://www.dpdf.com/zh)：在线 PDF 工具集，无需登录。
 
-### 文本工具
+### 📝文本工具
 
 [Anytxt Searcher](https://anytxt.net.cn/)：Anytxt 是一款功能全面，安全可靠的全文搜索桌面软件，海量文件也可立刻搜到所需资料。支持各类 Word、WPS、Excel 电子表格、PDF、OFD、电子书、网页、代码、压缩文件等 100+ 种常用电子文档全文内容搜索。（有国产电脑版本，未尝试）
 
@@ -76,9 +76,9 @@ tag:
 
 [Hidden Word](https://github.com/Ackites/hidden-word)：一个基于 Unicode 的文本数字水印工具，用于在文本内容中嵌入不可见的版权标识和元数据信息。在线体验地址：<https://hidden-word.top/> （202604：目前域名过期不可用）
 
-## 音视频工具
+## 🎵音视频工具
 
-### 播放
+### ▶️播放
 
 [Pot Player](http://www.potplayercn.com/)：比较知名的视频播放器，功能比较强大。
 
@@ -86,7 +86,7 @@ tag:
 
 B 站外链播放器：[player.bilibili.com](https://player.bilibili.com/) 使用文档
 
-### 编码处理
+### 🛠️编码处理
 
 [HandBrake](https://github.com/HandBrake/HandBrake)![最新版本](https://img.shields.io/github/v/release/HandBrake/HandBrake)：一款开源视频转码器，适用于 Linux、Mac 和 Windows 系统，可处理大多数常见的视频文件和格式，利用 FFmpeg、x264、x265 和 SVT-AV1 等工具创建新的视频文件。
 
@@ -94,7 +94,7 @@ B 站外链播放器：[player.bilibili.com](https://player.bilibili.com/) 使�
 
 相似视频清理：[Krokiet](#Krokiet)
 
-### 解析下载
+### ⬇️解析下载
 
 [橙子解析](https://odown.cc/)：免费、无需注册、解析快，支持超 1000+ 海量视频网站的解析。缺点是不显示分辨率，但默认是最高分辨率。
 
@@ -102,7 +102,7 @@ B 站外链播放器：[player.bilibili.com](https://player.bilibili.com/) 使�
 
 [飞鱼视频下载助手](https://www.feiyudo.com/extract)：视频网站解析，每日有使用次数限制
 
-## 图片工具
+## 🖼️图片工具
 
 [果核看图](https://pic.ghxi.com/)：可能是世界上最小的全格式看图软件，绿色版压缩包约 4M，安装包约 4M，安装后整个目录仅 12M。提供完整的图片解码能力，支持 HEIC、AVIF、WebP、RAW、PSD 等多种格式。支持离线 OCR（插件功能）。但仅支持 Windows 10 及以上 64 位版本。
 
@@ -126,7 +126,7 @@ B 站外链播放器：[player.bilibili.com](https://player.bilibili.com/) 使�
 
 [Kroki](https://kroki.io/)：根据文字生成图片，支持 Excalidraw、GraphViz、Mermaid、TikZ 等，适合在 markdown 中插入图片。
 
-## 文件管理相关
+## 📁文件管理相关
 
 [Everything](https://www.voidtools.com/zh-cn/) ：装机必备！快速搜索、定位文件和文件夹。
 
@@ -173,7 +173,9 @@ length:1:16-1m18  # 搜索时长为 1分16秒 至 1分18秒 的视频
 
 [upfile.live](https://upfile.live/zh-cn/) ：在线文件传输，可通过文件 ID 或链接取回文件，默认会在上传后 30 分钟自动删除，也支持手动删除。
 
-### 资源管理器
+[LocalSend](https://localsend.org/zh-CN)![最新版本](https://img.shields.io/github/v/release/localsend/localsend)：无需云端即可分享文件，在局域网内以 WiFi 网络的最高速度传输文件，无带宽限制。实测通过手机热点给电脑连接 WIFI，传输文件不消耗流量。
+
+### 📂资源管理器
 
 [Allen Explorer](https://www.allenxiang.com/index.html)：类 Chrome 界面设计，简洁美观拥有多标签页、双工作区、收藏夹、导航栏等功能，可对文件项目进行预览、置顶、标记、备注等操作，通过文件比对、文件夹整理、批量重命名、极速搜索等强大的能力，极大提升文件项目管理效率。
 
@@ -185,7 +187,7 @@ length:1:16-1m18  # 搜索时长为 1分16秒 至 1分18秒 的视频
 
 360 文件夹：360 出品鲜有的良心软件，多标签文件管理器，提高文件管理效率和使用体验，让文件管理更加便捷。可惜旧版空格预览不支持 QuickLook。为避免出现启动时出现透明边框的问题，建议使用 [当下软件园的旧版本](https://www.downxia.com/downinfo/418699.html)（注意有时候网络被劫持会“安全下载”exe 文件），如果能忍受也可以用新版：<http://down.360safe.com/pcnewapp/360FileSetup.exe>（360 软件宝库已找不到，但该下载直连可用）
 
-## 其他
+## 🔧其他
 
 [有道词典](https://cidian.youdao.com/)：桌面翻译软件。
 
@@ -209,11 +211,13 @@ length:1:16-1m18  # 搜索时长为 1分16秒 至 1分18秒 的视频
 eza -?             # 查看帮助及说明
 eza ./ -T -L 3 -D  # 以树形结构显示当前目录，深度 3 层，仅列出目录
 # 等价于 eza ./ --tree --level 3 --only-dirs
+
+eza -T --group-directories-first # 文件夹排在文件之前
 ```
 
 [RunAsDate](https://www.nirsoft.net/utils/run_as_date.html)：允许以指定的日期和时间运行程序。该工具不会更改计算机当前的系统日期和时间，而只是将指定的日期/时间注入到目标应用程序中。（可以与试用期 XX 天的软件搭配使用 ![/xyx](https://cdn.luogu.com.cn/upload/pic/62230.png)）
 
-## 系统相关
+## ⚙️系统相关
 
 [TranslucentTB](https://apps.microsoft.com/detail/9pf4kz2vn4w9)：Windows 10/11 半透明任务栏（微软商店版本和 GitHub 上的不太一样）
 
@@ -239,9 +243,9 @@ eza ./ -T -L 3 -D  # 以树形结构显示当前目录，深度 3 层，仅列�
 
 [zFrontier - 在线键盘测试](https://www.zfrontier.com/lab/keyboardTester)：换了新键盘、外接键盘可以用该工具进行测试每个按键是否正常。
 
-## 重装系统
+## 💿重装系统
 
-### 镜像
+### 💿镜像
 
 原版系统镜像下载：<https://next.itellyou.cn/Original/> 需要注册登陆，可配合 PE 工具安装。
 
